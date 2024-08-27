@@ -55,7 +55,7 @@ root/
      ```
    - Create a `.env` file in the `server` directory and add your MongoDB connection string:
      ```env
-     MONGO_URI=your-Assignment-connection-string
+     MONGO_URI=your-mongodb-connection-string
      ```
    - Start the backend server:
      ```bash
