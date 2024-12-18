@@ -111,6 +111,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the creators of React, Node.js, MongoDB, and Chart.js for making this project possible.
 - Special thanks to anyone who contributes to this project.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This README should give potential collaborators and users a clear understanding of your project, how to set it up, and how they can contribute.
+
+
+
